@@ -1,2 +1,2 @@
 # ALSE_24
-Repositorio de ALSE
+Repositorio de los ejercicios de la clase de ALSE en el segundo semestre de 2024
