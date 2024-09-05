@@ -6,6 +6,7 @@ int main(){
 	printf("Ingrese dos números enteros: ");
 	scanf("%i",&x);
 	scanf("%i",&y);
+	printf("Hola mundo ALSE 2024-2");
 	aux = x;
 	x = y;
 	y = aux;
