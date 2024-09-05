@@ -7,7 +7,7 @@ int main(){
 	scanf("%i",&x);
 	scanf("%i",&y);
 	printf("Hola mundo ALSE 2024-2");
-	printf("Este es un cambio");
+	printf("Este es un cambio \n");
 	aux = x;
 	x = y;
 	y = aux;
